@@ -4,3 +4,4 @@
 Name | Description | Footprint | USAGE | 3D
 ---- | ----------- | ------- | ------- | -------
 TVRB4824LD-50WR3_TDPOWER | ISOLATED PSU for Output 24VDC at a cheap price from manufacture TDPOWER | <img src="DOC/TVRB4824LD-50WR3_FOOTPRINT.png"> | <img src="DOC/TVRB4824LD-50WR3_EXAMPLE.png">  | <img src="DOC/TVRB4824LV-50WR3_3D.png">
+NANOPI DUO2 | MINI PC WITH SMALL DIMENSION CAN RUNNING UBUNTU | <img src="DOC/NANOPI-DUO2_FOOTPRINT.png"> | <img src="DOC/NANOPI-DUO2_EXAMPLE.png">  | <img src="DOC/NANOPI-DUO2_3D.png">
